@@ -1,0 +1,5 @@
+package com.demo.hotel.management.user.controller;
+
+public class UserController {
+
+}

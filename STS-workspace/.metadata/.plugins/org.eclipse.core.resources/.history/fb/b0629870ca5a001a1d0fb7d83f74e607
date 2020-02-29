@@ -1,0 +1,28 @@
+package com.demo.hotel.management.user.service.impl;
+
+import java.util.List;
+
+import com.demo.hotel.management.user.entity.User;
+import com.demo.hotel.management.user.service.UserService;
+
+public class UserServiceImpl implements UserService {
+
+	@Override
+	public List<User> getUsers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public User createUser(User user) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public User getUserById(long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
